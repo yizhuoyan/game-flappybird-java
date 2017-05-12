@@ -1,4 +1,4 @@
-package com.chinasofti.bird;
+package com.yizhuoyan.bird;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
